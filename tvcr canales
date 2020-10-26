@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1, TELETICA
+https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO51HQwh3UfwPNltEZVggrjUE)/dm/3/x29e3wg/s/live-4.m3u8
+
+#EXTINF:-0, CANAL 6
+https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAzODM2MDAxLCJzZXNzaW9uIjoiMjAxLjIwMi4xNC4zIiwid2hpdGVsaXN0IjpbIjIwMS4yMDIuMTQuMyJdfSwic2lnbmF0dXJlIjoiYTg1Mjc4MGJiN2FmZjAwNmMwMWExNzk2ZmIyM2FlYmY0YjMwZWE4MCJ9
+
+#EXTINF:-2, CANAL 11
+https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAzODM3NjAzLCJzZXNzaW9uIjoiMjAxLjIwMi4xNC4zIiwid2hpdGVsaXN0IjpbIjIwMS4yMDIuMTQuMyJdfSwic2lnbmF0dXJlIjoiNDE5YmMzZGQzNjNmMGRmNjliMGVhNDViMWY0NmRlMGEwYTg3MDFmNCJ9
+
+#EXTINF:-3, CANAL 4
+https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAzODM1NzU2LCJzZXNzaW9uIjoiMjAxLjIwMi4xNC4zIiwid2hpdGVsaXN0IjpbIjIwMS4yMDIuMTQuMyJdfSwic2lnbmF0dXJlIjoiM2ZkNTM0Y2ZjYjZiZGEzMzliMjUzNWM0NWRmMGVjMDJmNzEwOTNhMiJ9
+
+#EXTINF:-4, CANAL 8
+https://us-b5-p-e-kj2.cdn.mdstrm.com/live-stream/5a7b1e63a8da282c34d65445/publish/media_2000.m3u8?uid=GaHNDDJ2pCjAPajSauzXC4HeaGx6tjfv&sid=sYLYcdTA0NMCd5NT4RK6vHtmJXEdTeWk&pid=Bb5ttCsVCxBg9Uuuun2zyff01r3Q60Ih&ref=https%3A%2F%2Fwww.multimedios.cr%2F&dnt=true&es=us-b5-p-e-kj2.cdn.mdstrm.com&ote=1603835875229&ot=FJvo5y6MX8S5u_tELd0j1g&proto=https&pz=us
